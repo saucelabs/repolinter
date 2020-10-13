@@ -1,6 +1,6 @@
 {
-  "name": "repolinter",
-  "version": "1.0.0",
+  "name": "@saucelabs/repolinter",
+  "version": "1.0.0-alpha.1",
   "description": "Lint open source repositories",
   "main": "index.js",
   "types": "index.d.ts",
@@ -76,5 +76,6 @@
     "standard": "^14.3.4",
     "strip-ansi": "^6.0.0",
     "unist-util-is": "^4.0.2"
-  }
+  },
+  "public": true
 }
